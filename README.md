@@ -26,6 +26,10 @@
 
 ### Install
 1. Clone repository
-2. npm install (or use Yarn!)
+2. npm install (or [use Yarn!](https://yarnpkg.com/))
 3. In schema.js input your api key from [the Weather Underground API](https://www.wunderground.com/weather/api/)
 4. npm start index.js
+
+### Learn more about GraphQL
+[What is this GraphQL thing anyways?](http://graphql.org/learn/)
+[Quick video examples in Python, Ruby, and JS](https://www.youtube.com/watch?v=UBGzsb2UkeY)
