@@ -32,4 +32,5 @@
 
 ### Learn more about GraphQL
 [What is this GraphQL thing anyways?](http://graphql.org/learn/)
+
 [Quick video examples in Python, Ruby, and JS](https://www.youtube.com/watch?v=UBGzsb2UkeY)
