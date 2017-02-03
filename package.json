@@ -1,0 +1,17 @@
+{
+  "name": "graphql-endpoint-for-weather-underground",
+  "version": "0.5.0",
+  "description": "GraphQL Endpoint for Weather Underground",
+  "main": "index.js",
+  "repository": "https://github.com/nateinaction/GraphQL-Endpoint-for-Weather-Underground.git",
+  "author": "Nate Gay <email@nategay.me>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.2",
+    "graphql": "^0.9.1",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {}
+}
