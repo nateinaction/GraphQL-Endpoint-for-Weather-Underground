@@ -6,7 +6,8 @@ var GraphQLInt = require('graphql').GraphQLInt
 
 var fetch = require('node-fetch')
 
-// var apiKey = 'YOUR_API_KEY'
+
+var apiKey = process.env.apiKey || require('./apiKey.js')
 var apiUrl = 'https://api.wunderground.com/api/' + apiKey
 
 var TimeType = new GraphQLObjectType({
