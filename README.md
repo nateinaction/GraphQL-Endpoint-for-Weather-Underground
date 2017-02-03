@@ -1,7 +1,7 @@
 # GraphQL Endpoint for Weather Underground
 ### Leave REST behind...
 
-[GraphiQL demo](https://shielded-thicket-68835.heroku.com/graphql)
+[GraphiQL demo](http://shielded-thicket-68835.heroku.com/graphql)
 
 ### Features
 - Request current weather data for a location
